@@ -82,7 +82,7 @@ export default function App() {
                     <h2 className="text-2xl font-bold text-zinc-900">Important Update</h2>
                     <p className="text-zinc-500 leading-relaxed">
                       Your workspace has been successfully synchronized with the cloud. 
-                      All your changes are now safe and accessible from any device.
+                      All your changes are now safe and accessible from any device. Please check for confirmation.
                     </p>
                   </div>
 
